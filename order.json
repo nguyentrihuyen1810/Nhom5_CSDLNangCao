@@ -1,0 +1,21 @@
+[{
+  "_id": 50001,
+  "customer_id": {
+    "_id": 10005,
+    "fullname": "Trần Thanh",
+    "username": "tranthanh",
+    "address": "Quảng Nam",
+    "phone": "0905555555"
+  },
+  "subtotal": 20770000
+},{
+  "_id": 50002,
+  "customer_id": {
+    "_id": 10003,
+    "fullname": "Đỗ Cường",
+    "username": "docuong",
+    "address": "Hà Nội",
+    "phone": "0905333333"
+  },
+  "subtotal": 9990000
+}]

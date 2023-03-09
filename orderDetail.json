@@ -1,0 +1,61 @@
+[{
+  "_id": 60001,
+  "customer_id": {
+    "_id": 10005,
+    "fullname": "Trần Thanh",
+    "username": "tranthanh",
+    "address": "Quảng Nam",
+    "phone": "0905555555"
+  },
+  "product_id": {
+    "_id": 30036,
+    "name": "Đồng hồ thông minh BeFit BeU",
+    "price": 1390000,
+    "image": "hinh34.jpg"
+  },
+  "quantity": 2,
+  "total": 2780000,
+  "order_id": {
+    "_id": 50001
+  }
+},{
+  "_id": 60002,
+  "customer_id": {
+    "_id": 10005,
+    "fullname": "Trần Thanh",
+    "username": "tranthanh",
+    "address": "Quảng Nam",
+    "phone": "0905555555"
+  },
+  "product_id": {
+    "_id": 30009,
+    "name": "OPPO Reno8 Pro",
+    "price": 17990000,
+    "image": "hinh9.jpg"
+  },
+  "quantity": 1,
+  "total": 17990000,
+  "order_id": {
+    "_id": 50001
+  }
+},{
+  "_id": 60003,
+  "customer_id": {
+    "_id": 10003,
+    "fullname": "Đỗ Cường",
+    "username": "docuong",
+    "address": "Hà Nội",
+    "phone": "0905333333"
+  },
+  "product_id": {
+    "_id": 30012,
+    "name": "Vivo V25",
+    "price": 9990000,
+    "image": "hinh12.jpg"
+  },
+  "quantity": 1,
+  "total": 9990000,
+  "order_id": {
+    "_id": 50001
+  }
+}]

@@ -1,0 +1,441 @@
+[{
+  "_id": 30001,
+  "name": "Samsung Galaxy S23 Ultra",
+  "price": 33990000,
+  "image": "hinh1.jpg",
+  "description": "CPU: Snapdragon 8 Gen 2 - Màn hình: 6.8 inch - RAM: 12GB - Bộ nhớ trong: 512GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30002,
+  "name": "OPPO Reno8",
+  "price": 10990000,
+  "image": "hinh2.jpg",
+  "description": "CPU: Snapdragon 695 5G - Màn hình: 6.7 inch - RAM: 8GB - Bộ nhớ trong: 256GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30003,
+  "name": "iPhone 14 Pro Max",
+  "price": 37490000,
+  "image": "hinh3.jpg",
+  "description": "CPU: Apple A16 Bionic - Màn hình: 6.7 inch - RAM: 6GB - Bộ nhớ trong: 512GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30004,
+  "name": "Samsung Galaxy S21 FE",
+  "price": 12490000,
+  "image": "hinh4.jpg",
+  "description": "Chip: Exynos 2100 - Màn hình: 6.4 inch - RAM: 8GB - Bộ nhớ trong: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30005,
+  "name": "Xiaomi Redmi 12C",
+  "price": 3590000,
+  "image": "hinh5.jpg",
+  "description": "Chip: MediaTek Helio G85 - Màn hình: 6.71 inch - RAM: 4GB - Bộ nhớ trong: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30006,
+  "name": "iPhone 11",
+  "price": 13990000,
+  "image": "hinh6.jpg",
+  "description": "Chip: Apple A13 Bionic - Màn hình: 6.1 inch - RAM: 4GB - Bộ nhớ trong: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30007,
+  "name": "Xiaomi Redmi Note 11",
+  "price": 3990000,
+  "image": "hinh7.jpg",
+  "description": "Chip: Snapdragon 680 - Màn hình: 6.43 inch - RAM: 4GB - Bộ nhớ trong: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30008,
+  "name": "Vivo Y35",
+  "price": 6690000,
+  "image": "hinh8.jpg",
+  "description": "Chip: Snapdragon 680 - Màn hình: 6.58 inch - RAM: 8GB - Bộ nhớ trong: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30009,
+  "name": "OPPO Reno8 Pro",
+  "price": 17990000,
+  "image": "hinh9.jpg",
+  "description": "Chip: MediaTek Dimensity 8100 Max 8 nhân - Màn hình: 6.7 inch - RAM: 12GB - Bộ nhớ trong: 256GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30010,
+  "name": "OPPO A55",
+  "price": 3690000,
+  "image": "hinh10.jpg",
+  "description": "Chip: MediaTek Helio G35 - Màn hình: 6.5 inch - RAM: 4GB - Bộ nhớ trong: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30011,
+  "name": "Samsung Galaxy A23",
+  "price": 4990000,
+  "image": "hinh11.jpg",
+  "description": "Chip: Snapdragon 680 - Màn hình: 6.6 inch - RAM: 4GB - Bộ nhớ trong: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30012,
+  "name": "Vivo V25",
+  "price": 9990000,
+  "image": "hinh12.jpg",
+  "description": "Chip: MediaTek Dimensity 900 5G - Màn hình: 6.44 inch - RAM: 8GB - Bộ nhớ trong: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30013,
+  "name": "Realme C30s",
+  "price": 2250000,
+  "image": "hinh13.jpg",
+  "description": "Chip: Unisoc SC9863A1 - Màn hình: 6.5 inch - RAM: 2GB - Bộ nhớ trong: 32GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30014,
+  "name": "POCO C40",
+  "price": 2690000,
+  "image": "hinh14.jpg",
+  "description": "Chip: JLQ JR510 - Màn hình: 6.71 inch - RAM: 4GB - Bộ nhớ trong: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30015,
+  "name": "Xiaomi 12T",
+  "price": 12490000,
+  "image": "hinh15.jpg",
+  "description": "Chip: MediaTek Dimensity 8100 Ultra 8 nhân - Màn hình: 6.67 inch - RAM: 8GB - Bộ nhớ trong: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30016,
+  "name": "iPhone 12",
+  "price": 16490000,
+  "image": "hinh16.jpg",
+  "description": "Chip: Apple A14 Bionic - Màn hình: 6.1 inch - RAM: 4GB - Bộ nhớ trong: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30017,
+  "name": "Nokia C21 Plus",
+  "price": 2390000,
+  "image": "hinh17.jpg",
+  "description": "Chip: Spreadtrum SC9863A - Màn hình: 6.5 inch - RAM: 3GB - Bộ nhớ trong: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30018,
+  "name": "Samsung Galaxy Z Flip4",
+  "price": 20990000,
+  "image": "hinh18.jpg",
+  "description": "Chip: Snapdragon 8+ Gen 1 - Màn hình: Chính 6.7 inch & Phụ 1.9 inch - RAM: 8GB - Bộ nhớ trong: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30019,
+  "name": "Realme 9 Pro+",
+  "price": 8490000,
+  "image": "hinh19.jpg",
+  "description": "Chip: MediaTek Dimensity 920 5G - Màn hình: 6.4 inch - RAM: 8GB - Bộ nhớ trong: 128GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30020,
+  "name": "TCL 305",
+  "price": 2090000,
+  "image": "hinh20.jpg",
+  "description": "Chip: MediaTek MT6761 (Helio A22) - Màn hình: 6.52 inch - RAM: 2GB - Bộ nhớ trong: 32GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20001,
+    "name": "Điện thoại"
+  }
+},{
+  "_id": 30021,
+  "name": "Pin sạc dự phòng Polymer 10.000 mAh Type C PD Mophie Powerstation XL",
+  "price": 590000,
+  "image": "hinh21.jpg",
+  "description": "Hiệu suất sạc: 60% - Dung lượng pin: 10.000 mAh - Lõi pin: Polymer - Thương hiệu của: Mỹ - Sản xuất tại: Trung Quốc - Hãng: Mophie",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20002,
+    "name": "Phụ kiện"
+  }
+},{
+  "_id": 30022,
+  "name": "Pin sạc dự phòng không dây Polymer 10.000 mAh Xmobile PJ JP151",
+  "price": 360000,
+  "image": "hinh22.jpg",
+  "description": "Hiệu suất sạc: 65% - Dung lượng pin: 10.000 mAh - Lõi pin: Polymer - Thương hiệu của: Thế Giới Di Động - Sản xuất tại: Trung Quốc - Hãng: Xmobile",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20002,
+    "name": "Phụ kiện"
+  }
+},{
+  "_id": 30023,
+  "name": "Cáp Lightning MFI 1m Mbest DS286-WB Xám",
+  "price": 175000,
+  "image": "hinh23.jpg",
+  "description": "Đầu vào: USB Type-A - Đầu ra: Lightning: 5V - 2.4A - Công suất tối đa: 12 W - Độ dài dây: 1m - Thương hiệu của: Thế Giới Di Động - Sản xuất tại: Trung Quốc - Hãng: Mbest",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20002,
+    "name": "Phụ kiện"
+  }
+},{
+  "_id": 30024,
+  "name": "Sạc 3 cổng USB Type C PD 65W Samsung EP",
+  "price": 1490000,
+  "image": "hinh24.jpg",
+  "description": "Đầu vào: AC 100-240V - Đầu ra: USB: 5V - 2A, 9V - 1.67A (Max 15W) - Dòng sạc tối đa: 65 W - Độ dài dây: 1m - Thương hiệu của: Hàn Quốc - Sản xuất tại: Việt Nam - Hãng: Samsung",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20002,
+    "name": "Phụ kiện"
+  }
+},{
+  "_id": 30025,
+  "name": "Sạc dây Micro USB",
+  "price": 120000,
+  "image": "hinh25.jpg",
+  "description": "Đầu vào: Hãng không công bố - Đầu ra: Micro : 5V - 1A - Dòng sạc tối đa: 5 W - Độ dài dây: 1.2m - Thương hiệu của: Thế Giới Di Động - Sản xuất tại: Trung Quốc - Hãng: Xmobile",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20002,
+    "name": "Phụ kiện"
+  }
+},{
+  "_id": 30026,
+  "name": "Tai nghe Bluetooth True Wireless AVA+ DS200A-WB",
+  "price": 250000,
+  "image": "hinh26.jpg",
+  "description": "Thời gian tai nghe: Dùng 4 giờ - Sạc 1.5 giờ - Thời gian hộp sạc: Dùng 12 giờ - Sạc 1.5 giờ - Cổng sạc: Micro USB - Hãng: AVA+",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20002,
+    "name": "Phụ kiện"
+  }
+},{
+  "_id": 30027,
+  "name": "Tai nghe Bluetooth True Wireless Aukey",
+  "price": 1190000,
+  "image": "hinh27.jpg",
+  "description": "Thời gian tai nghe: Dùng 3 giờ - Sạc 1.5 giờ - Thời gian hộp sạc: Dùng 8 giờ - Sạc 1.5 giờ - Cổng sạc: Micro USB - Hãng: AUKEY",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20002,
+    "name": "Phụ kiện"
+  }
+},{
+  "_id": 30028,
+  "name": "Máy tính bảng iPad 9",
+  "price": 8490000,
+  "image": "hinh28.jpg",
+  "description": "Chip: Apple A13 Bionic - Màn hình: 10.2 inch - RAM: 3 GB - Dung lượng lưu trữ: 64 GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20003,
+    "name": "Máy tính bảng"
+  }
+},{
+  "_id": 30029,
+  "name": "Máy tính bảng Samsung Galaxy Tab A8 (2022)",
+  "price": 6990000,
+  "image": "hinh29.jpg",
+  "description": "Chip: UniSOC T618 - Màn hình: 10.5 inch - RAM: 4GB - Dung lượng lưu trữ: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20003,
+    "name": "Máy tính bảng"
+  }
+},{
+  "_id": 30030,
+  "name": "Máy tính bảng Lenovo Tab M8",
+  "price": 3490000,
+  "image": "hinh30.jpg",
+  "description": "Chip: MediaTek Helio A22 - Màn hình: 8 inch - RAM: 3GB - Dung lượng lưu trữ: 32GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20003,
+    "name": "Máy tính bảng"
+  }
+},{
+  "_id": 30031,
+  "name": "Máy tính bảng OPPO Pad Air",
+  "price": 6690000,
+  "image": "hinh31.jpg",
+  "description": "Chip: Snapdragon 680 - Màn hình: 10.36 inch - RAM: 4GB - Dung lượng lưu trữ: 64GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20003,
+    "name": "Máy tính bảng"
+  }
+},{
+  "_id": 30032,
+  "name": "Máy tính bảng iPad Pro M1",
+  "price": 32690000,
+  "image": "hinh32.jpg",
+  "description": "Chip: Apple M1 - Màn hình: 12.9 inch - RAM: 8GB - Dung lượng lưu trữ: 512GB",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20003,
+    "name": "Máy tính bảng"
+  }
+},{
+  "_id": 30033,
+  "name": "Đồng hồ thông minh HAYLOU GST",
+  "price": 1390000,
+  "image": "hinh33.jpg",
+  "description": "Thời lượng pin: Khoảng 7 ngày - Màn hình: 1.69 inch - Kết nối với hệ điều hành: iOS 11 trở lên, Android 6.0 trở lên - Hãng: Haylou",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20004,
+    "name": "Smartwatch"
+  }
+},{
+  "_id": 30034,
+  "name": "Đồng hồ thông minh BeFit Sporty",
+  "price": 1390000,
+  "image": "hinh34.jpg",
+  "description": "Thời lượng pin: Khoảng 7 ngày - Màn hình: IPS, 1.32 inch - Kết nối với hệ điều hành: iOS 11 trở lên, Android 6.0 trở lên - Hãng: BeFit",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20004,
+    "name": "Smartwatch"
+  }
+},{
+  "_id": 30035,
+  "name": "Đồng hồ thông minh Samsung Galaxy Watch5",
+  "price": 6490000,
+  "image": "hinh35.jpg",
+  "description": "Thời lượng pin: Khoảng 1.6 ngày - Màn hình: SUPER AMOLED, 1.2 inch - Kết nối với hệ điều hành: Android 8.0 trở lên dùng Google Mobile Service - Hãng: Samsung",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20004,
+    "name": "Smartwatch"
+  }
+},{
+  "_id": 30036,
+  "name": "Đồng hồ thông minh BeFit BeU",
+  "price": 1390000,
+  "image": "hinh34.jpg",
+  "description": "Thời lượng pin: Khoảng 10 ngày - Màn hình: TFT, 1.69 inch - Kết nối với hệ điều hành: Android 4.4 trở lên, iOS 8 trở lên - Hãng: BeFit",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20004,
+    "name": "Smartwatch"
+  }
+},{
+  "_id": 30037,
+  "name": "Apple Watch Series 7 GPS",
+  "price": 10190000,
+  "image": "hinh37.jpg",
+  "description": "Thời lượng pin: Khoảng 1.5 ngày (ở chế độ tiết kiệm pin), Khoảng 18 giờ (ở chế độ sử dụng thông thường) - Màn hình: OLED, 1.77 inch - Kết nối với hệ điều hành: iPhone 8 trở lên với iOS phiên bản mới nhất - Hãng: Apple",
+  "quantity": 10,
+  "category_id": {
+    "_id": 20004,
+    "name": "Smartwatch"
+  }
+},{
+  "_id": 30038,
+  "name": "Ốp lưng Galaxy S23 Ultra Silicone Samsung",
+  "price": 790000,
+  "image": "hinh38.jpg",
+  "description": "",
+  "quantity": 10,
+  "category_id": {
+    "_id": 2002,
+    "name": "Phụ kiện"
+  }
+},{
+  "_id": 30039,
+  "name": "Ốp lưng Magsafe iPhone 14 Pro Max",
+  "price": 1270000,
+  "image": "hinh39.jpg",
+  "description": "Chất liệu: Nhựa trong",
+  "quantity": 10,
+  "category_id": {
+    "_id": 2002,
+    "name": "Phụ kiện"
+  }
+},{
+  "_id": 30040,
+  "name": "Ốp lưng nắp gập Galaxy Z Flip4 ",
+  "price": 1032000,
+  "image": "hinh40.jpg",
+  "description": "Chất liệu: Silicone",
+  "quantity": 10,
+  "category_id": {
+    "_id": 2002,
+    "name": "Phụ kiện"
+  }
+}]

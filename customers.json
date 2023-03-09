@@ -1,0 +1,46 @@
+[{
+  "_id": 10001,
+  "fullname": "Nguyễn Văn An",
+  "username": "vanan",
+  "password": "123456",
+  "address": "Đà Nẵng",
+  "phone": "0905111111",
+  "email": "nguyenvanan@gmail.com",
+  "role": "admin"
+},{
+  "_id": 10002,
+  "fullname": "Trần Thanh Bình",
+  "username": "thanhbinh",
+  "password": "456789",
+  "address": "Quảng Nam",
+  "phone": "0905222222",
+  "email": "tranthanhbinh@gmail.com",
+  "role": "admin"
+},{
+  "_id": 10003,
+  "fullname": "Đỗ Cường",
+  "username": "docuong",
+  "password": "abcdef",
+  "address": "Hà Nội",
+  "phone": "0905333333",
+  "email": "docuong@gmail.com",
+  "role": ""
+},{
+  "_id": 10004,
+  "fullname": "Phan Văn Dũng",
+  "username": "vandung",
+  "password": "abc123",
+  "address": "Đà Nẵng",
+  "phone": "0905444444",
+  "email": "phanvandung@gmail.com",
+  "role": ""
+},{
+  "_id": 10005,
+  "fullname": "Trần Thanh",
+  "username": "tranthanh",
+  "password": "abc456",
+  "address": "Quảng Nam",
+  "phone": "0905555555",
+  "email": "tranthanh@gmail.com",
+  "role": ""
+}]
