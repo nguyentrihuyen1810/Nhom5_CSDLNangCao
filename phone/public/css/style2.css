@@ -1,0 +1,128 @@
+.clearfix:before, .clearfix:after {
+    content: ""; display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.addsp{
+    margin: 70px 30px 50px;      
+}
+
+.addsp a{
+    display: flex ;
+    position: relative;
+    margin: 0px 10px;
+}
+
+ul.addsp1{
+    padding: 0;
+    width: 100%;
+    list-style: none;
+    margin: 0 10px;
+    line-height: 30px;
+}
+
+ul.addsp1 li{
+    float: right;
+    margin:10px 0;
+}
+
+ul.addsp1 li a{
+    text-align: center;
+    font-weight: bold;
+}
+
+.addsp1 button{
+    padding: 4px 5px 4px; 
+    color: #fff; 
+    background-color: #43A316; 
+    font-size: 16px; 
+    border-radius: 3px; 
+    margin-top: 10px; 
+    cursor:pointer;
+}
+
+.product{
+    width: auto;
+    padding-left: 30px;
+    padding-bottom: 100px;
+    padding-right: 30px;
+}
+
+.product table{
+    margin-top: 20px;
+    border-collapse:collapse;
+    width: 100%;
+}
+
+.product td{
+    padding:20px 30px;
+    border:1px solid #868585;
+    max-width: 250px;
+    word-break: break-word;
+    
+}
+
+.product table tr:nth-child(1){
+    text-align: center;
+    font-weight: bold;
+}
+
+.product table td:nth-child(1){
+    text-align: center;
+    font-weight: bold;
+}
+
+.product table td:nth-child(2){
+    text-align: center;
+}
+
+.product table td:nth-child(5){
+    text-align: center;
+}
+
+.Show{
+    padding: 4px 5px 4px; 
+    color: #fff; 
+    background-color: #00BFFF; 
+    font-size: 16px; 
+    border-radius: 3px; 
+    margin-top: 10px; 
+    cursor:pointer;
+    margin-right: 10px;
+    width: 70px;
+}
+
+.Edit{
+    padding: 4px 5px 4px; 
+    color: #fff; 
+    background-color: #00008B; 
+    font-size: 16px; 
+    border-radius: 3px; 
+    margin-top: 10px; 
+    cursor:pointer;
+    margin-right: 10px;
+    width: 70px;
+}
+
+.Delete {
+    padding: 4px 5px 4px; 
+    color: #fff; 
+    background-color: #DC143C; 
+    font-size: 16px; 
+    border-radius: 3px; 
+    margin-top: 10px; 
+    cursor:pointer;
+    width: 70px;
+}
+
+.thongbao p{
+    margin: 0 30px;
+    padding:20px 20px 15px;
+    font-size: 17px;
+    background: #aaeeaa;
+    height: 25px;
+    color: #08A418;
+}
