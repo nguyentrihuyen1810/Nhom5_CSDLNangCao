@@ -26,4 +26,4 @@ Route::get('/register', 'App\Http\Controllers\RegisterController@create');
 Route::post('/addregister', 'App\Http\Controllers\RegisterController@addregister');
 
 Route::get('/admin', 'App\Http\Controllers\ProductController@admin');
-Route::post('/delete', 'App\Http\Controllers\ProductController@delete');
+Route::post('/delete/{prdname}', 'App\Http\Controllers\ProductController@delete');

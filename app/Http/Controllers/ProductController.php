@@ -24,10 +24,10 @@ class ProductController extends Controller
         return view('/crudprd')->with('all_product', $all_product );
     }
 
-    public function delete(Request $request)
+    public function delete($prdname)
     {
-        $prdname = $request->prdname; 
         Product::where('name',$prdname)->delete();
+
         return redirect('/admin')->with('success','Sucessfull delete.');
     }
 }

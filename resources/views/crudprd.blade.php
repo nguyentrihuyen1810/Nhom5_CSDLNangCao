@@ -48,9 +48,8 @@
                         <a href="/edit/{{$all_product->id}}">
                             <button  class="Edit">Edit</button>
                         </a>
-                        <form action="/delete" method="post">
+                        <form action="/delete/{{$all_product->name}}" method="post">
                         @csrf
-                            <input type="hidden" name="prdname" id="prdname" value="{{$all_product->name}}">
                             <button type="submit" style="margin-left: 20px" class="Delete">Delete</button>
                         </form>
                     </td>
