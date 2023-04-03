@@ -28,6 +28,6 @@ class ProductController extends Controller
     {
         Product::where('name',$prdname)->delete();
 
-        return redirect('/admin')->with('success','Sucessfull delete.');
+        return redirect('/admin');
     }
 }
